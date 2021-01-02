@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "task": "publish my code",
+    "checked": false
+  },
+  {
+    "id": 1,
+    "task": "set s3 boto settings",
+    "checked": false
+  }
+]
